@@ -17,13 +17,21 @@ namespace ProjectSynspunkt
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktVarer' table. You can move, or remove it, as needed.
+            this.synsPunktVarerTableAdapter.Fill(this.nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktVarer);
+            // TODO: This line of code loads data into the 'nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktKunder' table. You can move, or remove it, as needed.
+            this.synsPunktKunderTableAdapter.Fill(this.nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktKunder);
+            // TODO: This line of code loads data into the 'nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktVarer' table. You can move, or remove it, as needed.
+            this.synsPunktVarerTableAdapter.Fill(this.nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktVarer);
+            // TODO: This line of code loads data into the 'nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktKunder' table. You can move, or remove it, as needed.
+            this.synsPunktKunderTableAdapter.Fill(this.nicklaskruse_dk_db_webdatabaseDataSet.SynsPunktKunder);
 
         }
     }
