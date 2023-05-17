@@ -1,0 +1,17 @@
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\bin\Debug\net7.0-windows\Synspunkt winform første skærm.exe
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\bin\Debug\net7.0-windows\Synspunkt winform første skærm.deps.json
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\bin\Debug\net7.0-windows\Synspunkt winform første skærm.runtimeconfig.json
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\bin\Debug\net7.0-windows\Synspunkt winform første skærm.dll
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\bin\Debug\net7.0-windows\Synspunkt winform første skærm.pdb
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.csproj.AssemblyReference.cache
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt_winform_første_skærm.form_dataValg.resources
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.csproj.GenerateResource.cache
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.AssemblyInfoInputs.cache
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.AssemblyInfo.cs
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.csproj.CoreCompileInputs.cache
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.dll
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\refint\Synspunkt winform første skærm.dll
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.pdb
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\Synspunkt winform første skærm.genruntimeconfig.cache
+C:\Datamatiker1\Synspunkt alle winforms\Synspunkt winform første skærm\Synspunkt winform første skærm\obj\Debug\net7.0-windows\ref\Synspunkt winform første skærm.dll

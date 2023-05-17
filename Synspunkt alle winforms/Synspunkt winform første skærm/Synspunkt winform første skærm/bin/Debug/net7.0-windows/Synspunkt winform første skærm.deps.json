@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Synspunkt winform første skærm/1.0.0": {
+        "runtime": {
+          "Synspunkt winform første skærm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Synspunkt winform første skærm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
