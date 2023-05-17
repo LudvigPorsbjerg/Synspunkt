@@ -1,7 +1,0 @@
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt winform.csproj.AssemblyReference.cache
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt_winform.Form1.resources
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt winform.csproj.GenerateResource.cache
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt winform.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt winform.AssemblyInfoInputs.cache
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt winform.AssemblyInfo.cs
-C:\Users\Ludvig Porsbjerg\OneDrive\Documents\Datamatiker\Projeckt\1. sem\Synspunkt alle winforms\Synspunkt winform vare\Synspunkt winform\obj\Debug\net7.0-windows\Synspunkt winform.csproj.CoreCompileInputs.cache
